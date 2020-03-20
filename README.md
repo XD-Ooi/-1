@@ -1,14 +1,14 @@
 # List of Repositories
 
-**Malaysian Climate Observatory**
+**MY Climate Observatory** :seedling:
 
-Description: Working on gathering climate-related data in Malaysia.
+* Description: Working on gathering climate-related data in Malaysia.
 
-Status: Active and Looking for Collaborators
+* Status: Active and Looking for Collaborators
 
 
 **Introduction to Computing Assignments**
 
-Description: A repository that stores my assignments for my *Introduction to Computing* course.
+* Description: A repository that stores my assignments for my *Introduction to Computing* course.
 
-Status: Inactive
+* Status: Inactive
