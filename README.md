@@ -4,11 +4,23 @@
 
 * Description: Working on gathering climate-related data in Malaysia.
 
-* Status: Active and Looking for Collaborators
+* Status: Transfering to organization Github account
+
+**Random-Projects**
+
+* Description: Assorted projects I did
+
+* Status: Active
+
+**Practices**
+
+* Description: Programming practices repo
+
+* Status: Active
 
 
 **Introduction to Computing Assignments**
 
 * Description: A repository that stores my assignments for my *Introduction to Computing* course.
 
-* Status: Inactive
+* Status: Archived
